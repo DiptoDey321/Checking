@@ -1,0 +1,556 @@
+/* X-Small devices (portrait phones, less than 576px) */
+@media (min-width:320px) and (max-width:575px){
+    .navbar-expand-lg .navbar-nav .nav-link{
+        background-color: #212529;
+    }
+    .header h4{
+        font-size: 50px;
+    }
+    .header h5{
+        position: relative;
+        top: -29px;
+        left: 0px;
+        font-size: 12px;
+    }
+    .info_details{
+        position: relative;
+        top: -60px;  
+    }
+    .info_details h4{
+        font-size: 28px;
+    }
+    .info_details p{
+        font-size: 18px;
+    }
+    #mission{
+        margin-top: 50px;
+    }
+    .mission_head{
+        padding-top: 40px;
+    }
+    .mission_head h4{
+        font-size: 50px;
+    }
+    .mission_head h5{
+        position: relative;
+        top: -29px;
+        left: 0px;
+        font-size: 12px;
+        padding-bottom: 0px;
+    }
+    .donation,.get_support{
+        margin-bottom: 20px;
+        padding-top: 10px;
+    }
+    .mission_details{
+        padding-top: 20px;
+        margin-top: 10px;
+    }
+    .testi_head{
+        padding-top: 50px;
+    }
+    .testi_head h4{
+        font-size: 50px;
+    }
+    .testi_head h5{
+        position: relative;
+        top: -29px;
+        left: 0px;
+        font-size: 12px;
+        padding-bottom: 0px;
+    }
+    .testi_head p{
+        font-size: 13px;
+        font-family: 'Poppins', sans-serif;
+    }
+    .algn_m h5{
+        font-size: 13px;
+        justify-content: center;
+    }
+    .algn_m h6{
+        font-size: 13px;
+        position: relative;
+        top: 17px;
+        left: -14px;
+    }
+    footer{
+        margin-top: 80px;
+    }
+    .sec_part{
+        padding-left: 25px;
+    }
+    .img_sec1 img,.img_sec2 img{
+        padding-bottom: 20px;
+    }
+    .first_part p{
+        padding-bottom: 10px;
+    }
+    .icon_list a img{
+        width: 40px;
+    }
+    .icon_list{
+        text-align: center;
+    }
+    .icon_list a{
+        padding-right: 10px;
+    }
+    .sec_part{
+        margin-top: 20px;
+        margin-left: 0px;
+        padding-left: 0px;
+    }
+    .short_links{
+        position: relative;
+    }
+    .short_links ul li{
+        margin-left: 40px;
+        padding-bottom: 10px;
+    }
+    .d_left{
+        position: absolute;
+        padding-bottom: 20px;
+        top: 23px;
+        right: 50px;
+    }
+    .d_left1{
+        position: absolute;
+        padding-bottom: 20px;
+        top: 57px;
+        right: 30px;
+    }
+    .g_head{
+        padding-top: 20px;
+    }
+    .image_sec{
+        padding-top: 20px;
+    }
+    .contacts{
+        text-align: center;
+    }
+    .underlinee{
+        display: none;
+    }
+    .con_info p{
+        font-size: 14px;
+        text-align: center;
+    } 
+}
+ 
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width:767px) { 
+    .navbar-expand-lg .navbar-nav .nav-link{
+        background-color: #212529;
+    }
+    .header h4{
+        font-size: 70px;
+    }
+    .header h5{
+        position: relative;
+        top: -39px;
+        left: 0px;
+        font-size: 17px;
+    }
+    .info_details{
+        position: relative;
+        top: -60px;  
+    }
+    .info_details h4{
+        font-size: 28px;
+    }
+    .info_details p{
+        font-size: 18px;
+    }
+    #mission{
+        margin-top: 80px;
+    }
+    .mission_head{
+        padding-top: 60px;
+    }
+    .mission_head h4{
+        font-size: 70px;
+    }
+    .mission_head h5{
+        position: relative;
+        top: -39px;
+        left: 0px;
+        font-size: 17px;
+        padding-bottom: 0px;
+    }
+    .mission_details{
+        padding-top: 20px;
+        margin-top: 10px;
+    }
+    .donation,.get_support{
+        margin-bottom: 30px;
+        padding-top: 10px;
+    }
+    .testi_head{
+        padding-top: 50px;
+    }
+    .testi_head h4{
+        font-size: 70px;
+    }
+    .testi_head h5{
+        position: relative;
+        top: -39px;
+        left: 0px;
+        font-size: 17px;
+        padding-bottom: 0px;
+    }
+    .testi_head p{
+        padding-top: 15px;
+    }
+    .algn_m h6{
+        font-size: 13px;
+        position: relative;
+        top: 17px;
+        left: -14px;
+    }
+    .sec_part{
+        padding-left: 25px;
+    }
+    .img_sec1 img,.img_sec2 img{
+        padding-bottom: 20px;
+    }
+    .first_part p{
+        padding-bottom: 10px;
+    }
+    .icon_list a img{
+        width: 40px;
+    }
+    .icon_list{
+        text-align: center;
+    }
+    .icon_list a{
+        padding-right: 10px;
+    }
+    .sec_part{
+        margin-top: 20px;
+        margin-left: 0px;
+        padding-left: 0px;
+    }
+    .short_links{
+        position: relative;
+    }
+    .short_links ul li{
+        margin-left: 40px;
+        padding-bottom: 10px;
+    }
+    .d_left{
+        position: absolute;
+        padding-bottom: 20px;
+        top: 23px;
+        right: 50px;
+    }
+    .d_left1{
+        position: absolute;
+        padding-bottom: 20px;
+        top: 57px;
+        right: 30px;
+    }
+    .g_head{
+        padding-top: 20px;
+    }
+    .image_sec{
+        padding-top: 20px;
+    }
+    .contacts{
+        text-align: center;
+    }
+    .underlinee{
+        display: none;
+    }
+    .con_info p{
+        font-size: 14px;
+        text-align: center;
+    } 
+    .con_info p{
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        color: rgb(255, 255, 255);
+    }
+    .new_clr{
+        color: rgb(255, 174, 0);
+        font-family: 'Patrick Hand', cursive;
+    }
+    .lst_one{
+        padding-top: 0px;
+        margin-top: 0px;
+    }
+    .con_info h5{
+        font-size: 17px;
+        font-family: 'Raleway', sans-serif;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width:991px){ 
+    .navbar-expand-lg .navbar-nav .nav-link{
+        background-color: #212529;
+    }
+    .header h4{
+        font-size: 70px;
+    }
+    .header h5{
+        position: relative;
+        top: -39px;
+        left: 0px;
+        font-size: 17px;
+    }
+    .info_details h4{
+        font-size: 20px;
+    }
+    .info_details p{
+        font-size: 13px;
+    }
+    .info{
+        padding-top: 50px;
+    }
+    .info_details a{
+        position: relative;
+        top: 0px;
+        left: 228px;
+        padding: 8px 70px;
+    }
+    #mission{
+        margin-top: 60px;
+    }
+    .mission_head{
+        padding-top: 50px;
+    }
+    .mission_head h4{
+        font-size: 70px;
+    }
+    .mission_head h5{
+        position: relative;
+        top: -39px;
+        left: 0px;
+        font-size: 17px;
+        padding-bottom: 0px;
+    }
+    .mission_details{
+        padding-top: 20px;
+        margin-top: 10px;
+    }
+    .donation,.get_support{
+        margin-bottom: 30px;
+        padding-top: 10px;
+    }
+    .testi_head{
+        padding-top: 50px;
+    }
+    .testi_head h4{
+        font-size: 70px;
+    }
+    .testi_head h5{
+        position: relative;
+        top: -39px;
+        left: 0px;
+        font-size: 18px;
+        padding-bottom: 0px;
+    }
+    .testi_head p{
+        padding-top: 15px;
+    }
+    .algn_m h6{
+        font-size: 13px;
+        position: relative;
+        top: 17px;
+        left: -14px;
+    }
+    .footer_part p{
+        font-size: 12px;
+    }
+    .first_part p{
+        padding-bottom: 10px;
+    }
+    .icon_list a img{
+        width: 22px;
+    }
+    .icon_list a{
+        padding-right: 3px;
+    }
+    .sec_part h4 {
+        padding-top: 9px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 600;
+        font-size: 15px;
+    }
+    .short_links ul li{
+        font-size: 11px;
+        padding-bottom: 10px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 500
+    }
+    .short_links a:hover{
+        color: black;
+    }
+    .g_head h4 {
+        text-transform: uppercase;
+        color: white;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 600;
+        font-size: 15px;
+    }
+    .g_head {
+        padding-top: 27px;
+    }
+    .underline{
+        height: 2px;
+        width: 110px;
+        background-color: blanchedalmond;
+    }
+    .underline1{
+        height: 2px;
+        width: 120px;
+        background-color: blanchedalmond;
+    }
+    .img_sec1 img,.img_sec2 img{
+        padding-bottom: 20px;
+    }
+    .contacts {
+        padding-top: 27px;
+    }
+    .contacts h4{
+        text-transform: uppercase;
+        color: white;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 600;
+        font-size: 15px;
+    }
+    .con_info p{
+        font-size: 10px;
+        
+    } 
+    .con_info p{
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        color: rgb(255, 255, 255);
+    }
+    .new_clr{
+        color: rgb(255, 174, 0);
+        font-family: 'Patrick Hand', cursive;
+    }
+    .s2nd{
+        padding-left: 34px;
+    }
+    .t3nd{
+        padding-left: 27px;
+    }
+    .underline,.underline1,.underlinee{
+        display: none;
+    }
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width:1199px) { 
+    .header h4{
+        font-size: 70px;
+    }
+    .header h5{
+        position: relative;
+        top: -38px;
+        left: 0px;
+        font-size: 17px;
+    }
+    .info_details h4{
+        font-size: 22px;
+    }
+    .info_details p{
+        font-size: 16px;
+    }
+    .mission_head h4{
+        font-size: 70px;
+    }
+    .mission_head h5{
+        position: relative;
+        top: -39px;
+        left: 0px;
+        font-size: 17px;
+        padding-bottom: 0px;
+    }
+    .testi_head h4{
+        font-size: 70px;
+    }
+    .testi_head h5{
+        position: relative;
+        top: -39px;
+        left: 0px;
+        font-size: 18px;
+        padding-bottom: 0px;
+    }
+    .footer_part p{
+        font-size: 12px;
+    }
+    .first_part p{
+        padding-bottom: 10px;
+    }
+    .icon_list a img{
+        width: 33px;
+    }
+    .icon_list a{
+        padding-right: 6px;
+    }
+    .sec_part h4 {
+        padding-top: 13px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 600;
+        font-size: 18px;
+    }
+    .short_links ul li{
+        font-size: 12px;
+        padding-bottom: 10px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 500
+    }
+    .short_links a:hover{
+        color: black;
+    }
+    .g_head h4 {
+        text-transform: uppercase;
+        color: white;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 600;
+        font-size: 18px;
+    }
+    .g_head {
+        padding-top: 34px;
+    }
+    .stop{
+        display: none;
+    }
+    .contacts {
+        padding-top: 34px;
+    }
+    .contacts h4{
+        text-transform: uppercase;
+        color: white;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 600;
+        font-size: 18px;
+    }
+    .con_info p{
+        font-size: 12px;
+        
+    } 
+    .con_info p{
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        color: rgb(255, 255, 255);
+    }
+    .new_clr{
+        color: rgb(255, 174, 0);
+        font-family: 'Patrick Hand', cursive;
+    }
+    .underline,.underline1,.underlinee{
+        display: none;
+    }
+}
+@media (min-width: 1200px) { 
+    .underline,.underline1,.underlinee{
+        display: none;
+    }
+    .stop{
+        display: none;
+    }
+}

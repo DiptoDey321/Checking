@@ -1,0 +1,730 @@
+@media (min-width:320px) and (max-width:575px){
+    .about_sec h4{
+        font-size: 50px;
+    }
+    .about_sec h5{
+        position: relative;
+        top: -29px;
+        left: 0px;
+        font-size: 11px;
+        letter-spacing: 1px;
+    }
+    .a_img {
+        text-align: center;
+    }
+    .a_img img{
+        width: 300px;
+    }
+    .mid_line{
+        display: none;
+    }
+    .a_details h6{
+        font-size: 22px;
+        font-weight: 700;
+    }
+    .big{
+        font-size: 30px;
+    }
+    .a_details p{
+        text-align: justify;
+        position: relative;
+        top: -35px;
+        left: 52px;
+        font-size: 12px;
+    }
+    .meet_leader{
+        padding-top: 40px;
+    }
+    .meet_leader h4{
+        font-size: 50px;
+    }
+    .meet_leader h5{
+        position: relative;
+        top: -29px;
+        left: 0px;
+        font-size: 11px;
+        letter-spacing: 0px;
+    }
+    #leader{
+        margin-top: 20px;
+        padding-bottom: 80px;
+    }
+    .leader_details{
+        padding-top: 30px;
+    }
+    .leader_detail{
+        padding-top: 30px;
+    }
+    .leader_detail h4{
+        font-size: 20px;
+        font-family: 'Patrick Hand', cursive;
+        font-weight: 700;
+        margin-bottom: 0px;
+    }
+    .leader_detail h5{
+        font-family: 'Patrick Hand', cursive;
+       
+    }
+    .leader_detail h6{
+        font-family: 'Patrick Hand', cursive;
+    }
+    .leader_detail p{
+        font-size: 13px;
+        
+    }
+    .icon_list{
+        text-align: center;
+    }
+    .team_heading h4{
+        font-size: 50px;
+    }
+    .team_heading h5{
+        position: relative;
+        top: -29px;
+        left: 0px;
+        font-size: 11px;
+        letter-spacing: 0px;
+    }
+    .member_img  {
+        position: relative;
+        top: 56px;
+        text-align: center;
+    }
+    .team_details{
+        padding-top: 0px;
+    }
+    .g_heading{
+        padding-top: 50px;
+    }
+    .g_heading h4{
+        font-size: 50px;
+    }
+    .g_heading h5{
+        position: relative;
+        top: -29px;
+        left: 0px;
+        font-size: 11px;
+        letter-spacing: 0px;
+        letter-spacing: 0.5px;
+    }
+    .gallery_img{
+        padding-top: 22px;
+    }
+    .sec_part{
+        padding-left: 25px;
+    }
+    .img_sec1 img,.img_sec2 img{
+        padding-bottom: 20px;
+    }
+    .first_part p{
+        padding-bottom: 10px;
+    }
+    .icon_list a img{
+        width: 40px;
+    }
+    .icon_list{
+        text-align: center;
+    }
+    .icon_list a{
+        padding-right: 10px;
+    }
+    .sec_part{
+        margin-top: 20px;
+        margin-left: 0px;
+        padding-left: 0px;
+    }
+    .short_links{
+        position: relative;
+    }
+    .short_links ul li{
+        margin-left: 40px;
+        padding-bottom: 10px;
+    }
+    .d_left{
+        position: absolute;
+        padding-bottom: 20px;
+        top: 23px;
+        right: 50px;
+    }
+    .d_left1{
+        position: absolute;
+        padding-bottom: 20px;
+        top: 57px;
+        right: 30px;
+    }
+    #gallery{
+        margin-top: 60px;
+        padding-bottom: 30px;
+    }
+    .g_head{
+        padding-top: 20px;
+    }
+    .image_sec{
+        padding-top: 20px;
+    }
+    .contacts{
+        text-align: center;
+    }
+    .underlinee{
+        display: none;
+    }
+    .con_info p{
+        font-size: 13px;
+        text-align: center;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+    } 
+    .t3nd {
+        padding-left: 52px;
+    }
+    .s2nd {
+        padding-left: 37px;
+    }
+    .new_clr{
+        color: rgb(255, 174, 0);
+    }
+    .d_details{
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+}
+@media (min-width: 576px) and (max-width:767px){
+    .about_sec h4{
+        font-size: 55px;
+    }
+    .about_sec h5{
+        position: relative;
+        top: -31px;
+        left: 0px;
+        font-size: 12px;
+        letter-spacing: 1px;
+    }
+    .mid_line{
+        display: none;
+    }
+    .a_details p {
+        text-align: justify;
+        position: relative;
+        top: -37px;
+        left: 64px;
+        font-size: 14px;
+    }
+    .meet_leader{
+        padding-top: 50px;
+    }
+    .meet_leader h4{
+        font-size: 55px;
+    }
+    .meet_leader h5{
+        position: relative;
+        top: -31px;
+        left: 0px;
+        font-size: 12px;
+        letter-spacing: 0px;
+    }
+    .leader_details {
+        padding-top: 36px;
+    }
+    .leader_detail{
+        padding-top: 30px;
+    }
+    .icon_list{
+        text-align: center;
+    }
+    .team_details{
+        padding-top: 0px;
+    }
+    .team_heading h4{
+        font-size: 55px;
+    }
+    .team_heading h5{
+        position: relative;
+        top: -31px;
+        left: 0px;
+        font-size: 12px;
+        letter-spacing: 0px;
+    }
+    .g_heading{
+        padding-top: 50px;
+    }
+    .g_heading h4{
+        font-size: 55px;
+    }
+    .g_heading h5{
+        position: relative;
+        top: -31px;
+        left: 0px;
+        font-size: 12px;
+        letter-spacing: 0px;
+        letter-spacing: 0.5px;
+    }
+    .gallery_img{
+        padding-top: 22px;
+    }
+    .sec_part{
+        padding-left: 25px;
+    }
+    .img_sec1 img,.img_sec2 img{
+        padding-bottom: 20px;
+    }
+    .sec_part{
+        padding-left: 25px;
+    }
+    .img_sec1 img,.img_sec2 img{
+        padding-bottom: 20px;
+    }
+    .first_part p{
+        padding-bottom: 10px;
+    }
+    .icon_list a img{
+        width: 40px;
+    }
+    .icon_list{
+        text-align: center;
+    }
+    .icon_list a{
+        padding-right: 10px;
+    }
+    .sec_part{
+        margin-top: 20px;
+        margin-left: 0px;
+        padding-left: 0px;
+    }
+    .short_links{
+        position: relative;
+    }
+    .short_links ul li{
+        margin-left: 40px;
+        padding-bottom: 10px;
+    }
+    .d_left{
+        position: absolute;
+        padding-bottom: 20px;
+        top: 23px;
+        right: 50px;
+    }
+    .d_left1{
+        position: absolute;
+        padding-bottom: 20px;
+        top: 57px;
+        right: 30px;
+    }
+    .g_head{
+        padding-top: 20px;
+    }
+    .image_sec{
+        padding-top: 20px;
+    }
+    .contacts{
+        text-align: center;
+    }
+    .underlinee{
+        display: none;
+    }
+    .con_info p{
+        font-size: 14px;
+        text-align: center;
+    } 
+    .con_info p{
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        color: rgb(255, 255, 255);
+    }
+    .s2nd {
+        padding-left: 38px;
+    }
+    .t3nd {
+        padding-left: 60px;
+    }
+    .new_clr{
+        color: rgb(255, 174, 0);
+        font-family: 'Patrick Hand', cursive;
+    }
+    .lst_one{
+        padding-top: 0px;
+        margin-top: 0px;
+    }
+    .con_info h5{
+        font-size: 17px;
+        font-family: 'Raleway', sans-serif;
+    }
+}
+@media (min-width: 768px) and (max-width:991px){
+    .a_img img{
+        padding-top: 40px;
+        width: 340px;
+    }
+    .a_img {
+        text-align: left;
+    }
+    .mid_line {
+        padding: 170px 2px;
+        background-color: burlywood;
+        position: absolute;
+        top: 10px;
+        left: 341px;
+    }
+    .about_sec h4{
+        font-size: 55px;
+    }
+    .about_sec h5{
+        position: relative;
+        top: -31px;
+        left: 0px;
+        font-size: 12px;
+        letter-spacing: 1px;
+    }
+    .a_details p {
+        text-align: justify;
+        position: relative;
+        top: -37px;
+        left: 64px;
+        font-size: 12px;
+    }
+    .big {
+        font-size: 35px;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 800;
+        color: rgb(29, 29, 29);
+        text-transform: uppercase;
+    }
+    .meet_leader{
+        padding-top: 50px;
+    }
+    .meet_leader h4{
+        font-size: 55px;
+    }
+    .meet_leader h5{
+        position: relative;
+        top: -31px;
+        left: 0px;
+        font-size: 12px;
+        letter-spacing: 0px;
+    }
+    .leader_details {
+        padding-top: 44px;
+    }
+    .leader_detail p {
+        padding-top: 25px;
+        font-size: 11px;
+        text-align: justify;
+        font-family: 'Poppins', sans-serif;
+    }
+    .leader_detail h4 {
+        font-size: 18px;
+    }
+    .leader_detail h5 {
+        padding-top: 1px;
+        font-size: 16px;
+    }
+    .leader_detail h6 {
+        padding-top: 2px;
+        font-size: 16px;
+    }
+    .icon_lisst {
+        padding-top: 15px;
+    }
+    .icon_lisst a img{
+        width: 30px;
+        margin-right: 10px;
+    }
+    .none{
+        display: none;
+    }
+    .team_heading h4{
+        font-size: 55px;
+    }
+    .team_heading h5{
+        position: relative;
+        top: -31px;
+        left: 0px;
+        font-size: 12px;
+        letter-spacing: 0px;
+    }
+    .team_details{
+        padding-top: 0px;
+    }
+    .member_img img{
+        width: 100px;
+    }
+    .member_details h4 {
+        font-size: 12px;
+        padding-top: 76px;
+        font-weight: 700;
+    }
+    .member_details h5 {
+        font-size: 12px;
+    }
+    .g_heading h4{
+        font-size: 55px;
+    }
+    .g_heading h5{
+        position: relative;
+        top: -31px;
+        left: 0px;
+        font-size: 12px;
+        letter-spacing: 0px;
+        letter-spacing: 0.5px;
+    }
+    .g_heading {
+        padding-top: 55px;
+    }
+    .gallery_img {
+        padding-top: 35px;
+    }
+    .footer_part p{
+        font-size: 12px;
+    }
+    .first_part p{
+        padding-bottom: 10px;
+    }
+
+    .icon_list a{
+        padding-right: 3px;
+    }
+    .sec_part h4 {
+        padding-top: 9px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 600;
+        font-size: 15px;
+    }
+    .short_links ul li{
+        font-size: 11px;
+        padding-bottom: 10px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 500
+    }
+    .short_links a:hover{
+        color: black;
+    }
+    .g_head h4 {
+        text-transform: uppercase;
+        color: white;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 600;
+        font-size: 15px;
+    }
+    .g_head {
+        padding-top: 27px;
+    }
+    .underline{
+        height: 2px;
+        width: 110px;
+        background-color: blanchedalmond;
+    }
+    .underline1{
+        height: 2px;
+        width: 120px;
+        background-color: blanchedalmond;
+    }
+    .img_sec1 img,.img_sec2 img{
+        padding-bottom: 20px;
+    }
+    .contacts {
+        padding-top: 27px;
+    }
+    .contacts h4{
+        text-transform: uppercase;
+        color: white;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 600;
+        font-size: 15px;
+    }
+    .con_info p{
+        font-size: 10px;
+        
+    } 
+    .con_info p{
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        color: rgb(255, 255, 255);
+    }
+    .new_clr{
+        color: rgb(255, 174, 0);
+        font-family: 'Patrick Hand', cursive;
+    }
+    .s2nd{
+        padding-left: 34px;
+    }
+    .t3nd{
+        padding-left: 27px;
+    }
+    .underline,.underline1,.underlinee{
+        display: none;
+    }
+    .footer_part p {
+        font-size: 11px;
+        margin-bottom: 2px;
+    }
+    .icon_list a {
+        padding-right: 0px;
+        margin-right: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+    }
+    .icon_list {
+        padding-top: 0px;
+    }
+    .icon_list a img{
+        width: 27px;
+        margin-top: 20px;
+    }
+    .con_info p{
+        margin-bottom: -5px;
+    }
+   
+}
+@media (min-width: 992px) and (max-width:1199px){
+    .member_img {
+        position: relative;
+        top: 67px;
+        text-align: center;
+    }
+    .about_sec h5{
+        left: 334px;
+    }
+    .mid_line{
+        left: 448px;
+        padding: 174px 2px;
+    }
+    .a_details p {
+        top: -39px;
+        left: 64px;
+        font-size: 14px;
+    }
+    .meet_leader h5 {
+        font-size: 17px;
+        top: 133px;
+        left: 307px;
+    }
+    .leader_detail p {
+        padding-top: 23px;
+        font-size: 13px;
+        text-align: justify;
+        font-family: 'Poppins', sans-serif;
+    }
+    .icon_lisst a img{
+        width: 30px;
+        margin-right: 10px;
+    }
+    .icon_lisst a img {
+        width: 34px;
+        margin-right: 11px;
+        margin-top: 10px;
+    }
+    .team_heading h5 {
+        font-size: 16px;
+        top: 124px;
+        left: 326px;
+    }
+    .team_details {
+        padding-top: 0px;
+    }
+    .g_heading h5 {
+        font-size: 16px;
+        letter-spacing: 1px;
+        top: 135px;
+        left: 384px;
+    }
+    .footer_part p{
+        font-size: 12px;
+    }
+    .first_part p{
+        padding-bottom: 10px;
+    }
+    .icon_list a img {
+        width: 35px;
+        margin-right: 4px;
+    }
+    .icon_list a{
+        padding-right: 0px;
+    }
+    .sec_part h4 {
+        padding-top: 13px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 600;
+        font-size: 18px;
+    }
+    .short_links ul li{
+        font-size: 12px;
+        padding-bottom: 10px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 500
+    }
+    .short_links a:hover{
+        color: black;
+    }
+    .g_head h4 {
+        text-transform: uppercase;
+        color: white;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 600;
+        font-size: 18px;
+    }
+    .g_head {
+        padding-top: 34px;
+    }
+    .stop{
+        display: none;
+    }
+    .contacts {
+        padding-top: 34px;
+    }
+    .contacts h4{
+        text-transform: uppercase;
+        color: white;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 600;
+        font-size: 18px;
+    }
+    .con_info p{
+        font-size: 12px;
+        
+    } 
+    .con_info h5 {
+        font-size: 14px;
+        color: white;
+        margin-bottom: 0px;
+    }
+    .con_info p{
+        margin-bottom: -8px;
+        padding-bottom: 0px;
+        color: rgb(255, 255, 255);
+    }
+    .new_clr{
+        color: rgb(255, 174, 0);
+        font-family: 'Patrick Hand', cursive;
+    }
+    .underline,.underline1,.underlinee{
+        display: none;
+    }
+    .icon_list {
+        padding-top: 0px;
+    }
+    .icon_list a {
+        padding-right: 0px;
+    }
+}
+@media (min-width: 1200px) { 
+    .underline,.underline1,.underlinee{
+        display: none;
+    }
+    .stop{
+        display: none;
+    }
+    .footer_part p {
+        padding-top: 20px;
+        font-size: 14px;
+        color: rgb(211, 210, 208);
+        text-align: justify;
+        padding-bottom: 20px;
+    }
+    .con_info p{
+        margin-bottom: -3px;
+        padding-bottom: 0px;
+        color: rgb(255, 255, 255);
+    }
+}
+
+/* font-family: 'Patrick Hand', cursive; */

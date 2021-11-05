@@ -1,0 +1,285 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+}
+ul,ol{
+ list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.body{
+    scroll-behavior: smooth;
+}
+
+/* menu part start here  */
+#menu_banner{
+    background: url(../img/d_banner.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.navbar-expand-lg {
+    padding: 0px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .5rem;
+    padding-left: 1.5rem;
+    color: white;
+    font-family: 'Patrick Hand', cursive;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover{
+    color: #0D9E1C;
+}
+.activee{
+    color: black !important;
+}
+/* menu part end here  */
+
+/* banner part css start here  */
+.banner{
+    padding-top: 520px;
+    padding-bottom: 30px;
+    text-align: right;
+}
+.banner h5{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 30px;
+
+}
+.banner h4{
+    font-family: 'Patrick Hand SC', cursive;
+    font-size: 40px;
+}
+
+
+/* banner part css end here  */
+
+/* donation part css start here  */
+#donation{
+    background: #F3F0EB;
+}
+.donation_part{
+    padding-top: 80px;
+}
+.details_part{
+    margin-right: 30px;
+}
+.details_part h4{
+    margin-right: 20px;
+    font-family: 'Patrick Hand SC', cursive;
+    font-size: 34px;
+    padding-bottom: 30px;
+}
+.details_part p{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 15px;
+    padding-bottom: 30px;
+    text-align: justify;
+}
+.details_part h5{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 20px;
+    padding-bottom: 50px;
+    text-align: justify;
+}
+.payment1{
+    background-color: white;
+    padding-top: 30px;
+    margin-bottom: 30px;
+    position: relative;
+    padding-bottom: 25px;
+    border-radius: 0.5rem;
+    box-shadow: 2px 2px 5px rgb(71, 71, 71);
+    margin-right: 80px;
+}
+.payment2{
+    margin-bottom: 60px;
+}
+.pay_img {
+    text-align: center;
+}
+.pay_details h3{
+    font-size: 20px;
+    font-family: 'Patrick Hand SC', cursive;
+}
+.middile_line{
+    width: 1px;
+    height: 113px;
+    background-color: rgb(114, 111, 111);
+    position: absolute;
+    top: 0px;
+    left: 169px;   
+}
+
+/* form part css start here  */
+.form_part{
+    background: url(../img/form_bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-right: 30px;
+    border-radius: 0.5rem;
+    margin-top: 80px;
+    box-shadow: 3px 3px 6px rgb(129, 128, 128);
+}
+.form_details h6{
+    padding-top: 30px;
+    margin-left: 30px;
+    text-transform: uppercase;
+    font-family: 'Patrick Hand SC', cursive;
+    font-weight: 600;
+}
+.form_details h5{
+    padding-top: 30px;
+    margin-left: 30px;
+    text-transform: uppercase;
+    font-family: 'Patrick Hand SC', cursive;
+    font-weight: 500;
+    color: white;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+.form_area{
+    margin-left: 30px;
+}
+.btn1{
+    padding: 8px 60px;
+    border-radius: 1.5rem;
+}
+.form_area button{
+    margin-left: 144px;
+    margin-bottom: 35px;
+    margin-top: 17px
+}
+.form-label{
+    font-family: 'Patrick Hand', cursive;
+
+}
+/* form part css end here  */
+
+/* footer part css start here  */
+
+footer{
+    background-color: #186267;
+    padding-bottom: 40px;
+}
+.footer_part{
+    padding-top: 50px;
+}
+.footer_part p{
+    padding-top: 20px;
+    font-size: 13px;
+    color: rgb(211, 210, 208);
+    text-align: justify;
+    padding-bottom: 20px;
+}
+.sec_part h4{
+    color: white;
+    text-transform: uppercase;
+}
+.icon_list a{
+    padding-right: 8px;
+}
+.sec_part h4{
+    padding-top: 25px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}
+.underline1{
+    height: 2px;
+    width: 130px;
+    background-color: blanchedalmond;
+}
+.underline{
+    height: 2px;
+    width: 130px;
+    background-color: blanchedalmond;
+}
+.short_links{
+    padding-top: 25px;
+}
+.s_lower{
+    margin-bottom: 20px;
+}
+.short_links ul{
+    padding-left: 0px;
+    color: white;
+}
+.short_links ul li{
+    font-size: 15px;
+    padding-bottom: 25px; 
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+.short_links a{
+    color: white;
+}
+.short_links a:hover{
+    color: black;
+}
+.contacts{
+    padding-top: 50px;
+}
+.contacts h4{
+    text-transform: uppercase;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}
+.underlinee{
+    height: 2px;
+    width: 135px;
+    background-color: blanchedalmond;
+}
+.con_info{
+    padding-top: 25px;
+}
+.con_info h5{
+    font-size: 15px;
+    color: white;
+}
+.s2nd{
+    padding-left: 43px;
+}
+.t3nd{
+    padding-left: 38px;
+}
+.g_head{
+    padding-top: 50px;
+}
+.g_head h4{
+    text-transform: uppercase;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}
+.image_sec{
+    padding-top: 30px;
+}
+.img_sec1 img,.img_sec2 img{
+    padding-bottom: 14px;
+}
+.con_info p{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    color: rgb(255, 255, 255);
+}
+.new_clr{
+    color: rgb(255, 174, 0);
+    font-family: 'Patrick Hand', cursive;
+}
+.contacts{
+    margin-left: 20px;
+}
+
+
+
+/* font-family: 'Patrick Hand', cursive;
+font-family: 'Patrick Hand SC', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Montserrat', sans-serif; */
